@@ -253,3 +253,6 @@ function doubleOddNumbers(arr) {
 
     return dbOdds;
 }
+
+// AFTER DOING ALL THE EXERCISES I REALIZE THAT
+// STR.SPLIT('') WORKS JUST LIKE PYTHON...
